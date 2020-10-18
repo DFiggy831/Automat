@@ -1,10 +1,3 @@
-// Title: project-01.cpp
-// Abstract: This program will serve as an automat. This program can essentially take in food and drink orders while displaying calories, ounces, and prices.  It can also allow for orders to be canceled as well.
-// Author: Daniel Figueroa
-// Email: dafigueroa@csumb.edu
-// Estimate: 6 days
-// Date: 09/30/2020
-
 #include <iostream>
 using namespace std;
 
